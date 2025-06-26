@@ -1,0 +1,17 @@
+{
+  "users": {
+    "298416060": {
+      "balance": 1300,
+      "usedLinks": [
+        "https://t.me/joinchat/AAA111",
+        "https://t.me/joinchat/BBB222"
+      ]
+    },
+    "431774170": {
+      "balance": 500,
+      "usedLinks": [
+        "https://t.me/joinchat/AAA111"
+      ]
+    }
+  }
+}
